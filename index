@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Eurotour</title>
+</head>
+<body>
+    <h1>Bem-vindo ao eurotour</h1>
+    <ul>
+        <li>Home</li>
+        <li>Países</li>
+    </ul>
+
+    <p>Stonehenge é uma estrutura composta, formada por círculos concêntricos de pedras, que chegam a ter 5 metros de altura e a pesar quase 50 toneladas, localizada na Inglaterra, no condado de Wiltshire, na Planície de Salisbury.
+        No monumento identificam-se três distintos períodos construtivos:</p>
+        <ul>
+            <li>
+              <p>O chamado Período I (c. 3100 a.C.), quando o monumento não passava de uma simples vala circular com 97,54 m de diâmetro, dispondo de uma única entrada. Internamente, erguia-se um banco de pedras e um santuário de madeira. Cinquenta e seis furos externos ao seu perímetro continham restos humanos cremados. O círculo estava alinhado com o pôr do Sol do último dia do Inverno e com as fases Lua.</p>
+             </li>
+            <li>
+              <p>Durante o chamado Período II (c. 2150 a.C.), deu-se a realocação do santuário de madeira, a construção de dois círculos de pedras azuis (coloridas com um matiz azulado), o alargamento da entrada, a construção de uma avenida de entrada marcada por valas paralelas alinhadas com o Sol nascente do primeiro dia do verão, e a construção do círculo externo, com 35 pedras que pesavam toneladas. As altas pedras azuis, que pesam 4 t, foram transportadas das montanhas de Gales, a cerca de 24 km ao Norte.</p>
+            </li>
+            <li>
+              <p>No chamado Período III (c. 2075 a.C.), as pedras azuis foram derrubadas e as pedras de grandes dimensões (megálitos) - ainda no local - foram erguidas. Estas pedras, medindo em média 5,49 m de altura e pesando cerca de 25 t cada, foram transportadas do Norte por 19 km de carreiros. Entre 1500 a.C. e 1100 a.C., aproximadamente sessenta das pedras azuis foram restauradas e erguidas em um círculo interno, com outras dezenove, colocadas em forma ferradura, também dentro do círculo.</p>
+            </li>
+        </ul>
+    <p> Estima-se que essas três fases da construção requereram mais de trinta milhões de horas de trabalho.
+        Recolhendo os dados a respeito do movimento de corpos celestiais, as observações de Stonehenge foram usadas para indicar os dias apropriados no ciclo ritual anual. Nesta consideração, a estrutura não foi usada somente para determinar o ciclo agrícola, uma vez que nesta região o solstício de verão ocorre bem após o começo da estação de crescimento; e o solstício de inverno bem depois que a colheita é terminada. Desta forma, as teorias atuais a respeito da finalidade de Stonehenge sugerem uso simultâneo para observações astronómicas e a funções religiosas, sendo improvável que estivesse sendo utilizado após 1100 a.C..
+        A respeito da sua forma e funções arquitetónicas, os estudiosos[quem?] sugeriram que Stonehenge — especialmente os seus círculos mais antigos — pretendia ser a réplica de um santuário de pedra,[qual?] santuários de madeira eram mais comuns em épocas Neolíticas.[carece de fontes]
+        No dia 21 de junho, o Sol nasce em perfeita exatidão sob a pedra principal.
+        Segundo dados mais recentes, obtidos por arqueólogos chefiados por Mike Parker Pearson, Stonehenge está relacionada com a existência do povoado Durrington. Este povoado formado por algumas dezenas de casas construídas entre 2600 a.C. e 2500 a.C., situado em Durrington Walls[1], perto de Salisbury, é considerado a maior aldeia neolítica do Reino Unido. Segundo os arqueólogos, foi aí encontrada uma espécie de réplica de Stonehenge, em madeira.
+    </p>
+    <img src="stone.jpg"></img>
+    <footer>
+        <ul>
+            <li>Quem somos</li>
+            <li>Fale Conosco</li>
+        </ul>
+    </footer>
+</body>
+</html>
